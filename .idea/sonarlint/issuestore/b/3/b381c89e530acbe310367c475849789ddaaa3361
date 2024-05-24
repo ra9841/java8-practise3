@@ -1,0 +1,32 @@
+
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8΅Άώδο1
+Z
+java:S1612"=Replace this lambda with method reference 'Objects::nonNull'.(ύ 8£Άώδο1
+L	java:S106"+Replace this use of System.out by a logger.(®ύαλϋÿÿÿÿ8¤Άώδο1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8¤Άώδο1
+F	java:S106"+Replace this use of System.out by a logger.(πχ†T8¥Άώδο1
+L	java:S106 "+Replace this use of System.out by a logger.(Ή¦…‡ϊÿÿÿÿ8¦Άώδο1
+G	java:S1062"+Replace this use of System.out by a logger.(™οΦέ8©Άώδο1
+F	java:S106<"+Replace this use of System.out by a logger.(‚£η8«Άώδο1
+o
+java:S6204C"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8«Άώδο1
+G	java:S106D"+Replace this use of System.out by a logger.(αΌυ 8¬Άώδο1
+o
+java:S6204H"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8¬Άώδο1
+G	java:S106I"+Replace this use of System.out by a logger.(Θ‚χ‡8­Άώδο1
+o
+java:S6204N"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8­Άώδο1
+G	java:S106O"+Replace this use of System.out by a logger.(ζλΜ8―Άώδο1
+G	java:S106]"+Replace this use of System.out by a logger.(Θσ‹•8²Άώδο1
+G	java:S106f"+Replace this use of System.out by a logger.(‚¨Φ§8³Άώδο1
+G	java:S106m"+Replace this use of System.out by a logger.(µΡ8µΆώδο1
+G	java:S106n"+Replace this use of System.out by a logger.(δώª8µΆώδο1
+G	java:S106o"+Replace this use of System.out by a logger.(΄²¥Ε8µΆώδο1
+o
+java:S6204u"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8¶Άώδο1
+L	java:S106v"+Replace this use of System.out by a logger.(°Χ¨‚ώÿÿÿÿ8·Άώδο1
+o
+java:S6204z"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8·Άώδο1
+G	java:S106{"+Replace this use of System.out by a logger.(―²·¥8ΈΆώδο1
